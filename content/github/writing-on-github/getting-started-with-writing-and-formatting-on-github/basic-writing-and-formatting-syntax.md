@@ -23,7 +23,7 @@ To create a heading, add one to six `#` symbols before your heading text. The nu
 
 ![Rendered H1, H2, and H6 headings](/assets/images/help/writing/headings-rendered.png)
 
-## Styling text
+## Styling next 
 
 You can indicate emphasis with bold, italic, or strikethrough text in comment fields and `.md` files.  
 
@@ -35,7 +35,7 @@ You can indicate emphasis with bold, italic, or strikethrough text in comment fi
 | Bold and nested italic | `** **` and `_ _` | | `**This text is _extremely_ important**` | **This text is _extremely_ important** |
 | All bold and italic | `*** ***` | | `***All this text is important***` | ***All this text is important*** |
 
-## Quoting text
+## Quoting next
 
 You can quote text with a `>`.
 
