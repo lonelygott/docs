@@ -100,3 +100,4 @@ error: failed to push some refs to 'git@github.local:<em>USERNAME</em>/<em>REPOS
 **Tip:** When you remove or rename a remote reference, your local `refs/pull/origin/` namespace will not be affected by calls to `git-remote`.
 
 {% endtip %}
+
